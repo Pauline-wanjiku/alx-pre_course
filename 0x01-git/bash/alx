@@ -1,18 +1,8 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b85842aad61cb677c6ae29f046904feaa2136f5f
+
+
 echo "ALX School is so cool"
 
-=======
-echo "ALX School!"
-<<<<<<< HEAD
-=======
-echo "ALX School"
->>>>>>> update_script
-=======
->>>>>>> b85842aad61cb677c6ae29f046904feaa2136f5f
- 
->>>>>>> update_script
+
+
+
